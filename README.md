@@ -20,7 +20,9 @@ Welcome to the NumPy GitHub repo! We are super excited to have you. Here, you wi
 - [`bad_eggs.ipynb`](https://github.com/codedex-io/numpy/blob/main/1-dear-data/05_bad_eggs.ipynb)
 - [`dear_data.ipynb`](https://github.com/codedex-io/numpy/blob/main/1-dear-data/06_dear_data.ipynb)
 
-## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_equal.png" height="21" style="vertical-align: middle"> Basic Operations
+[comment]: <> (<img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_equal.png" height="21" style="vertical-align: middle">)
+
+## Basic Operations
 
 - [`tallest_building.ipynb`](https://github.com/codedex-io/numpy/blob/main/2-basic-operations/07_tallest_building.ipynb)
 - [`walking_steps.ipynb`](https://github.com/codedex-io/numpy/blob/main/2-basic-operations/08_walking_steps.ipynb)
