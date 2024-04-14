@@ -9,7 +9,7 @@ Welcome to the NumPy GitHub repo! We are super excited to have you. Here, you wi
 
 ### Website: www.codedex.io/numpy
 
-[comment]: <> <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_earth.png" height="20" style="vertical-align: middle">
+[comment]: <> (<img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_earth.png" height="20" style="vertical-align: middle">)
 
 ## Dear Data
 
